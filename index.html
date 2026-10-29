@@ -1,0 +1,26 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Flex Your Neurons · Muscle Tes Neurones · ニューロンを鍛えよう</title><meta name="description" content="Training on reasoning-test item formats. Entraînement aux formats des tests de raisonnement. 推論テストの問題形式を練習するサイト。"><meta name="color-scheme" content="light dark"><link rel="icon" href="/neuromaker/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/neuromaker/apple-touch-icon.png"><link rel="alternate" hreflang="en" href="/neuromaker/en/"><link rel="alternate" hreflang="fr" href="/neuromaker/fr/"><link rel="alternate" hreflang="ja" href="/neuromaker/ja/"><link rel="alternate" hreflang="x-default" href="/neuromaker/en/"><noscript><meta http-equiv="refresh" content="0; url=/neuromaker/en/"></noscript><script>(function(){const base = "/neuromaker";
+const locales = ["en","fr","ja"];
+
+      // Runs before paint so the chooser below is never seen in the normal case.
+      (function () {
+        var target = 'en';
+        try {
+          var stored = localStorage.getItem('iq:v1:locale');
+          if (stored && locales.indexOf(stored) >= 0) {
+            target = stored;
+          } else {
+            var preferred = navigator.languages || [navigator.language || 'en'];
+            for (var i = 0; i < preferred.length; i++) {
+              var primary = String(preferred[i]).toLowerCase().split('-')[0];
+              if (locales.indexOf(primary) >= 0) {
+                target = primary;
+                break;
+              }
+            }
+          }
+        } catch (e) {
+          // localStorage can throw in private mode; English is a safe default.
+        }
+        location.replace(base + '/' + target + '/');
+      })();
+    })();</script><link rel="stylesheet" href="/neuromaker/_astro/global.C0YjTWN8.css"></head><body><main class="shell chooser"><h1 class="chooser-title" data-testid="redirect-title">Choosing your language…</h1><p class="muted flush">If you are not redirected automatically, choose a language:</p><p class="muted flush" lang="fr">Si la redirection ne se fait pas automatiquement, choisissez une langue :</p><p class="muted flush" lang="ja">自動的にリダイレクトされない場合は、言語を選んでください：</p><div class="cluster"><a class="btn btn-lg" href="/neuromaker/en/" hreflang="en" lang="en" data-testid="choose-en">English</a><a class="btn btn-lg" href="/neuromaker/fr/" hreflang="fr" lang="fr" data-testid="choose-fr">Français</a><a class="btn btn-lg" href="/neuromaker/ja/" hreflang="ja" lang="ja" data-testid="choose-ja">日本語</a></div></main></body></html>

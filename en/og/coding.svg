@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Digit–symbol coding" data-og-type="coding">
+<defs><pattern id="p-dots" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.3" fill="#14161f" fill-opacity="0.95"/></pattern><pattern id="p-hatch" width="8" height="8" patternUnits="userSpaceOnUse"><line x1="0" y1="8" x2="8" y2="0" stroke="#14161f" stroke-opacity="0.95" stroke-width="1.6" stroke-linecap="round"/></pattern><pattern id="p-cross" width="8" height="8" patternUnits="userSpaceOnUse"><line x1="0" y1="8" x2="8" y2="0" stroke="#14161f" stroke-opacity="0.95" stroke-width="1.5" stroke-linecap="round"/><line x1="0" y1="0" x2="8" y2="8" stroke="#14161f" stroke-opacity="0.95" stroke-width="1.5" stroke-linecap="round"/></pattern><pattern id="p-dense" width="4.5" height="4.5" patternUnits="userSpaceOnUse"><line x1="0" y1="4.5" x2="4.5" y2="0" stroke="#14161f" stroke-opacity="0.95" stroke-width="1.7" stroke-linecap="round"/></pattern></defs>
+<rect width="1200" height="630" fill="#f7f7fb"/>
+<rect x="0" y="0" width="1200" height="6" fill="oklch(54.1% 0.19 150.1)"/>
+
+<g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+  <rect x="72" y="64" width="40" height="40" rx="11" fill="oklch(54.1% 0.19 150.1)"/>
+  <text x="92" y="84" text-anchor="middle" dominant-baseline="central" font-size="21" fill="#ffffff">▦</text>
+  <text x="126" y="84" dominant-baseline="central" font-size="27" font-weight="700" fill="#14161f">Flex Your Neurons</text>
+
+  <text x="72" y="168" font-size="21" font-weight="650" letter-spacing="2.4" fill="oklch(54.1% 0.19 150.1)">PROCESSING SPEED (Gs)</text>
+
+  <text x="72" y="230" dominant-baseline="central" font-size="68" font-weight="680" letter-spacing="-1.4" fill="#14161f">Digit–symbol coding</text>
+
+  <text x="72" y="326" dominant-baseline="central" font-size="29" fill="#5c6070">Read the key. Which symbol goes with the</text>
+  <text x="72" y="366" dominant-baseline="central" font-size="29" fill="#5c6070">digit?</text>
+
+  <line x1="72" y1="526" x2="520" y2="526" stroke="#dcdce8" stroke-width="2"/>
+  <text x="72" y="564" dominant-baseline="central" font-size="23" fill="#83879a">Practice, not assessment. No IQ score, ever.</text>
+</g>
+
+<g data-og-stage="" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"><text x="715" y="261" text-anchor="middle" font-size="34" font-weight="600" fill="#14161f">7</text><svg x="671" y="287" width="88" height="88" viewBox="0 0 100 100" data-figure="" data-layout="center"><polygon points="52.51,26.13 73.48,45.01 62,70.78 33.94,67.84 28.07,40.24" fill="#14161f" fill-opacity="0.1" stroke="none" stroke-width="2.5" stroke-linejoin="round" data-shape="pentagon" data-size="4" data-color="2"/><polygon points="52.51,26.13 73.48,45.01 62,70.78 33.94,67.84 28.07,40.24" fill="url(#p-hatch)" fill-opacity="1" stroke="#14161f" stroke-width="2.5" stroke-linejoin="round" data-shape="pentagon" data-size="4" data-color="2"/></svg><text x="825" y="261" text-anchor="middle" font-size="34" font-weight="600" fill="#14161f">2</text><svg x="781" y="287" width="88" height="88" viewBox="0 0 100 100" data-figure="" data-layout="center"><polygon points="74.15,43.53 56.47,74.15 25.85,56.47 43.53,25.85" fill="none" fill-opacity="0" stroke="#14161f" stroke-width="2.5" stroke-linejoin="round" data-shape="square" data-size="4" data-color="0"/></svg><text x="935" y="261" text-anchor="middle" font-size="34" font-weight="600" fill="#14161f">1</text><svg x="891" y="287" width="88" height="88" viewBox="0 0 100 100" data-figure="" data-layout="center"><polygon points="61.63,29.86 73.25,50 61.63,70.14 38.38,70.14 26.75,50 38.37,29.86" fill="none" fill-opacity="0" stroke="#14161f" stroke-width="2.5" stroke-linejoin="round" data-shape="hexagon" data-size="4" data-color="0"/></svg><text x="1045" y="261" text-anchor="middle" font-size="34" font-weight="600" fill="#14161f">8</text><svg x="1001" y="287" width="88" height="88" viewBox="0 0 100 100" data-figure="" data-layout="center"><polygon points="63.75,26.18 63.75,73.82 22.5,50" fill="none" fill-opacity="0" stroke="#14161f" stroke-width="2.5" stroke-linejoin="round" data-shape="triangle" data-size="4" data-color="0"/></svg></g>
+</svg>
